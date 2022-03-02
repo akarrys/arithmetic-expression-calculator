@@ -5,7 +5,7 @@
 * Cap is given value for size of array for 100.
 * Bottom element is always data[0].
 * Top element of stack in cell data[top] for index top is equal to -1.
-* Author: Artamis Karrys
+* Author: akarrys
 * Java SE 17
 * 22-02-21
 */
